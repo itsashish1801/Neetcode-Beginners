@@ -1,3 +1,5 @@
+package DynamicArrays;
+
 public class ConcatenationOfArray {
   public int[] getConcatenation(int[] nums) {
     var result = new int[nums.length * 2];

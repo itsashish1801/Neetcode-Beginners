@@ -1,3 +1,5 @@
+package StaticArrays;
+
 import java.util.Arrays;
 
 public class RemoveElement {

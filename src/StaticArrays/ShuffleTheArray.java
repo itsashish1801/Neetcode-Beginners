@@ -1,3 +1,5 @@
+package StaticArrays;
+
 public class ShuffleTheArray {
   public int[] shuffle(int[] nums, int n) {
     var result = new int[nums.length];
